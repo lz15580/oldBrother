@@ -12,8 +12,8 @@ import java.util.List;
 @RestController
 public class DeptController {
 	
-	 private static final String REST_URL_PREFIX = "http://localhost:8001";
-//	private static final String REST_URL_PREFIX = "http://Demo-SCMS-Dept";
+//	 private static final String REST_URL_PREFIX = "http://localhost:8001";//比较麻烦。需要ip需要端口号
+	private static final String REST_URL_PREFIX = "http://DEMO-SCMS-DEPT";
 	
 	@Autowired
 	private RestTemplate restTemplate;

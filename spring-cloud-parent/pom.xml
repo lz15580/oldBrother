@@ -13,6 +13,8 @@
         <module>springcloud-consumer-dept80</module>
         <module>springcloud.eureka7000</module>
         <module>springcloud-api</module>
+        <module>springcloud.eureka7001</module>
+        <module>springcloud.eureka7002</module>
     </modules>
 
     <properties>

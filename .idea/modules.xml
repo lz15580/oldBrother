@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/springcloud-consumer-dept80.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/springcloud-consumer-dept80.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/springcloud-provider-dept8001.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/springcloud-provider-dept8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/springcloud.eureka7000.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/springcloud.eureka7000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/springcloud.eureka7001.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/springcloud.eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/springcloud.eureka7002.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/springcloud.eureka7002.iml" />
     </modules>
   </component>
 </project>
