@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-api" />
+        <module name="springcloud-consumer-dept80" />
+        <module name="springcloud-feign-80" />
+        <module name="springcloud-provider-dept8001" />
+        <module name="springcloud-provider-dept8002" />
+        <module name="springcloud-provider-dept8003" />
+        <module name="springcloud.eureka7000" />
+        <module name="springcloud.eureka7001" />
+        <module name="springcloud.eureka7002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-parent" target="1.8" />
+      <module name="springcloud-api" target="1.8" />
+      <module name="springcloud-consumer-dept80" target="1.8" />
+      <module name="springcloud-feign-80" target="1.8" />
+      <module name="springcloud-provider-dept8001" target="1.8" />
+      <module name="springcloud-provider-dept8002" target="1.8" />
+      <module name="springcloud-provider-dept8003" target="1.8" />
+      <module name="springcloud.eureka7000" target="1.8" />
+      <module name="springcloud.eureka7001" target="1.8" />
+      <module name="springcloud.eureka7002" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
