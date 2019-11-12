@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/oldBrother.iml" filepath="$PROJECT_DIR$/oldBrother.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/spring-cloud-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-api/springcloud-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/springcloud-consumer-dept80.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/springcloud-consumer-dept80.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-feign-80/springcloud-feign-80.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-feign-80/springcloud-feign-80.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/springcloud-provider-dept8001.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/springcloud-provider-dept8001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8002/springcloud-provider-dept8002.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8002/springcloud-provider-dept8002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8003/springcloud-provider-dept8003.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8003/springcloud-provider-dept8003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/springcloud.eureka7000.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/springcloud.eureka7000.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/springcloud.eureka7001.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/springcloud.eureka7001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/springcloud.eureka7002.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/springcloud.eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-feign-80/src/main/main.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-feign-80/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/src/main/main1.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-consumer-dept80/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8003/src/main/main2.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8003/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/src/main/main3.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7001/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/src/main/main4.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8001/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-api/src/main/main5.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-api/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8002/src/main/main6.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud-provider-dept8002/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/src/main/main7.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7000/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/src/main/main8.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/springcloud.eureka7002/src/main/main8.iml" />
     </modules>
   </component>
 </project>
