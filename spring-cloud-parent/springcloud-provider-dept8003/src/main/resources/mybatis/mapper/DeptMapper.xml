@@ -3,13 +3,13 @@
 "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.demo.springcloud.dept8003.mapper.DeptMapper">
 
-	<select id="findById" resultType="api.entity.Dept" parameterType="Integer">
+	<select id="findById" resultType="com.demo.springcloud.entity.Dept" parameterType="Integer">
 		select dept_no deptNo,dept_name deptName,db_source dbSource from dept where dept_no=#{deptNo};
 	</select>
-	<select id="findAll" resultType="api.entity.Dept">
+	<select id="findAll" resultType="com.demo.springcloud.entity.Dept">
 		select dept_no deptNo,dept_name deptName,db_source dbSource from dept;
 	</select>
-	<insert id="addDept" parameterType="api.entity.Dept">
+	<insert id="addDept" parameterType="com.demo.springcloud.entity.Dept">
 		INSERT INTO dept(dept_name,db_source) VALUES(#{deptName},DATABASE());
 	</insert>
 

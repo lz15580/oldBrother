@@ -1,4 +1,4 @@
-package api;
+package com.demo.springcloud.entity;
 
 
 public class Dept {

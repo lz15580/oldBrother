@@ -1,6 +1,6 @@
 package com.demo.springcloud.dept8003.controller;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 import com.demo.springcloud.dept8003.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

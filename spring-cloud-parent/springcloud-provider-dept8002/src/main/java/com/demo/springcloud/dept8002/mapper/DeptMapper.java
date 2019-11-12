@@ -1,6 +1,6 @@
 package com.demo.springcloud.dept8002.mapper;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

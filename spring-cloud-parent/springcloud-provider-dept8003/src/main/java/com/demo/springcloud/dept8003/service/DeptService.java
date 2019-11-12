@@ -1,6 +1,6 @@
 package com.demo.springcloud.dept8003.service;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 
 import java.util.List;
 

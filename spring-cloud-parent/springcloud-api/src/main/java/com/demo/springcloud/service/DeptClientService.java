@@ -1,14 +1,15 @@
-package api.service;
+package com.demo.springcloud.service;
 
 import java.util.List;
 
 import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 
 // 指定要调用的provider的微服务名称
 @FeignClient(value="Demo-SCMS-Dept")

@@ -1,6 +1,6 @@
 package com.demo.springcloud.dept8002.service.Impl;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 import com.demo.springcloud.dept8002.mapper.DeptMapper;
 import com.demo.springcloud.dept8002.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;

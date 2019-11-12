@@ -1,6 +1,6 @@
 package com.demo.springcloud.dept80.controller;
 
-import api.entity.Dept;
+import com.demo.springcloud.entity.Dept;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
