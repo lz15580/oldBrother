@@ -1,0 +1,26 @@
+server:
+  port: 8004
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml
+  mapper-locations:
+    - classpath:mybatis/mapper/*Mapper.xml
+
+spring:
+  application:
+    name: Demo-SCMS-Hystrix-Dept
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://101.132.134.219:3306/springcloud-demo-01
+    username: root
+    password: rq7lqQ9rnqrS
+    dbcp2:
+      min-idle: 5
+      initial-size: 5
+      max-total: 5
+      max-wait-millis: 200
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://www.eureka7000.com:7000/eureka,http://www.eureka7001.com:7001/eureka,http://www.eureka7002.com:7002/eureka

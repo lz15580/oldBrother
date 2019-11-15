@@ -18,6 +18,8 @@
         <module>springcloud-provider-dept8002</module>
         <module>springcloud-provider-dept8003</module>
         <module>springcloud-feign-80</module>
+        <module>springcloud-provider-hystrix-8004</module>
+        <module>springcloud-zuul-9002</module>
     </modules>
 
     <properties>

@@ -12,6 +12,8 @@
         <module name="springcloud-provider-dept8001" />
         <module name="springcloud-provider-dept8002" />
         <module name="springcloud-provider-dept8003" />
+        <module name="springcloud-provider-hystrix-8004" />
+        <module name="springcloud-zuul-9002" />
         <module name="springcloud.eureka7000" />
         <module name="springcloud.eureka7001" />
         <module name="springcloud.eureka7002" />
@@ -25,6 +27,8 @@
       <module name="springcloud-provider-dept8001" target="1.8" />
       <module name="springcloud-provider-dept8002" target="1.8" />
       <module name="springcloud-provider-dept8003" target="1.8" />
+      <module name="springcloud-provider-hystrix-8004" target="1.8" />
+      <module name="springcloud-zuul-9002" target="1.8" />
       <module name="springcloud.eureka7000" target="1.8" />
       <module name="springcloud.eureka7001" target="1.8" />
       <module name="springcloud.eureka7002" target="1.8" />
